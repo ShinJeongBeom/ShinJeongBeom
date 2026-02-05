@@ -53,18 +53,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-## 🏅 Stats
-
-<a href="https://github.com/ShinJeongBeom">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShinJeongBeom&show_icons=true&theme=dark"/>
-</a>
-
-<a href="https://github.com/ShinJeongBeom">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJeongBeom&layout=compact&theme=dark"/>
-</a>
-
-</div>
-</div>
