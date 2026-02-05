@@ -1,31 +1,70 @@
-##
+<div align="center">
 
+## 🛠️ Tech Stacks
+
+<p align="center">
+  <!-- Language -->
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=Java&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Backend Framework -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Cache / Messaging -->
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Infra / DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- API / Collaboration -->
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/>
+</p>
+
+---
+
+## 🧑‍💻 Contact Me
+
+<p align="center">
+  <a href="https://www.instagram.com/xin_bm">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:dingfan36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+## 🏅 Stats
+
+<a href="https://github.com/ShinJeongBeom">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShinJeongBeom&show_icons=true&theme=dark"/>
 </a>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-          <br/></div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/410beom> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/410beom"> </a>
-         <a href=mailto:dingfan36@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dingfan36@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinJeongBeom%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShinJeongBeom&bg_color=180,000000,&title_color=000000&text_color=000000" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJeongBeom&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-    </div>
-</div>
+<a href="https://github.com/ShinJeongBeom">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJeongBeom&layout=compact&theme=dark"/>
+</a>
 
-    
-  
+</div>
+</div>
