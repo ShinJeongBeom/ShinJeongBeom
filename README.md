@@ -23,7 +23,6 @@
 <p align="center">
   <!-- Cache / Messaging -->
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white"/>
 </p>
 
 <p align="center">
